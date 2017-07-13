@@ -14,7 +14,8 @@ Live-demo here: [https://conceptstore360.github.io/](https://conceptstore360.git
 - [aframe-href-component.js](./scripts/aframe-href-component.js) dependence
 
 ## Tutorial
-- comming-soon
+- [Construindo protótipos navegáveis em realidade virtual com A-Frame - PT BR](https://medium.com/@brunocastro/prototipos-navegaveis-com-aframe-603be02573fb)
+- Building a Virtual reality navigable prototype with A-Frame - EN (coming soon)
 
 ## License
 CardSlider for Android is released under the MIT license.
