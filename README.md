@@ -5,7 +5,7 @@ This is a prototype of a shoes fake store. In reality this is a sample of a VR w
 <br>
 Powered by [@brunocastro](https://github.com/brunocastro/) using [A-FRAME](https://aframe.io) a framework `Node-js`.
 
-![Concept Store](https://media.giphy.com/media/xUA7b7hBt9gA4gAnKw/giphy.gif) 
+![Concept Store](https://media.giphy.com/media/l1BgSQsZviwBFQa6k/giphy.gif) 
 <br>
 Live-demo here: [https://conceptstore360.github.io/](https://conceptstore360.github.io/)
 
@@ -21,5 +21,10 @@ Live-demo here: [https://conceptstore360.github.io/](https://conceptstore360.git
 CardSlider for Android is released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
-## Contribute
+## Credits and Thanks
+- [@jonathassampaio](https://github.com/jonathassampaio) for updated the aframe-href-components.js and save "vr-mode" bolean status for enable it.
+- [@gasolin](https://github.com/gasolin) for aframe-href-components.js
+- [@mozilla](https://github.com/mozilla) for web-vr and [A-FRAME.js](https://github.com/aframevr/aframe)
+
+## Contribute also
 If you have anything to contribute send a `pull request` or send me a email: [contato@brunocastro.me](mailto:contato@brunocsatro.me)
